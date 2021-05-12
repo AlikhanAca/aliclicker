@@ -1,0 +1,3 @@
+onclick = () => {
+	click.innerText++;
+}
